@@ -25,7 +25,7 @@ The analysis will look at a dataset on video game reviews using PySpark to perfo
 
 Based on the current results only, there appears to be some bias from paid vine reviews favouring higher ratings in comparison to unpaid reviews. There are some limitations though, there were significantly more unpaid reviews vs paid vine reviews. Paid vine reviews accounted for 0.23% of the total number of reviews which makes the comparison unequal. If the number of paid reviews were in line with the number of unpaid reviews than we could have a clearer picture and have a more definitive answer. 
 
-The screenshots below, show how the ratings are distributed across paid and unpaid reviews. In the paid review bar chart, we can see positive relationship between the star rating the number of reviews in comparison to unpaid reviews which have a different distribution.
+The screenshots below, show how the ratings are distributed across paid and unpaid reviews. In the paid review bar chart, we can see a clear positive relationship between the star rating and the number of reviews in comparison to unpaid reviews which has a slightly different distribution.
 
 |Paid Review   | Unpaid Reviews  |
 |---|---|
