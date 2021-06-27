@@ -21,6 +21,11 @@ The analysis will look at a dataset on video game reviews using PySpark to perfo
 
 ## Results
 
-#### Summary of review table:
+#### Summary of Paid and Unpaid reviews:
 
 ![summary](https://github.com/YanLuong/Amazon_Vine_Analysis/blob/master/screenshots/summary.png)
+
+* There are a total of 94 paid vine reviews and 40,471 unpaid reviews.
+* 48 out of 94 paid vine reviews gave a 5 star rating.
+* 15663 out of 40471 unpaid reviews gave a 5 star rating.
+* 5 Star rating reviews accounted for 51% of paid vine reviews while in unpaid reviews it accounted for 38.7%.
