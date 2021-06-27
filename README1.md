@@ -21,3 +21,6 @@ The analysis will look at a dataset on video game reviews using PySpark to perfo
 
 ## Results
 
+#### Summary of reviews:
+
+![summary](https://github.com/YanLuong/Amazon_Vine_Analysis/blob/master/screenshots/summary.png)
