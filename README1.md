@@ -17,7 +17,7 @@ Summary: In your summary, state if there is any positivity bias for reviews in t
 
 This project will analyse Amazon reviews written by members of the paid Amazon Vine Program and compare them to unpaid reviews. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay Amazon a fee to provide products to Amazon Vine members in return for their review.
 
-The analysis will look at a dataset on video game reviews using PySpark to perform ETL, connect to AWS RDS instance and then load the transformed data to pgAdmin. The purpose of the analysis is to determine whether a bias exists for favourable reviews from Vine members using pySpark.
+The analysis will look at a dataset on video game reviews using PySpark to perform ETL, connect to AWS RDS instance and then load the transformed data to pgAdmin. The purpose of the analysis is to determine whether a bias exists for favourable reviews from Vine members (using pySpark) vs unpaid reviews.
 
 ## Results
 
