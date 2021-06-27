@@ -29,3 +29,13 @@ The analysis will look at a dataset on video game reviews using PySpark to perfo
 * 48 out of 94 paid vine reviews gave a 5 star rating.
 * 15663 out of 40471 unpaid reviews gave a 5 star rating.
 * 5 Star rating reviews accounted for 51% of paid vine reviews while in unpaid reviews it accounted for 38.7%.
+
+
+
+
+
+
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
