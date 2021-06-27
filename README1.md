@@ -36,6 +36,6 @@ The analysis will look at a dataset on video game reviews using PySpark to perfo
 
 
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|  ![bar1](https://github.com/YanLuong/Amazon_Vine_Analysis/blob/master/screenshots/paid_reviews.png) |   |   |   |   |
+|   |   |
+|---|---|
+|  ![bar1](https://github.com/YanLuong/Amazon_Vine_Analysis/blob/master/screenshots/paid_reviews.png) | ![bar2](https://github.com/YanLuong/Amazon_Vine_Analysis/blob/master/screenshots/unpaid_reviews.png)  |
